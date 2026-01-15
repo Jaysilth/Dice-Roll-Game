@@ -27,4 +27,4 @@ The program allows the user to choose how many dice to roll and displays the res
 
 ---
 
-## 📂 Project Structure
+
